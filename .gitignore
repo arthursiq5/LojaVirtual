@@ -1,1 +1,8 @@
 vendor/
+templates_c/
+
+# smarty
+lexer/*.php
+lexer/*.php.bak
+lexer/*.out
+utilies/*.php
