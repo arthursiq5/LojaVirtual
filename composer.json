@@ -1,4 +1,12 @@
 {
+    "name": "arthur/loja_virtual",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Arthur Siqueira",
+            "email": "arthur.siq5@gmail.com"
+        }
+    ],
     "require": {
         "smarty/smarty": "^3.1",
         "phpmailer/phpmailer": "^6.1"
